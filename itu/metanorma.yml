@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - x.mvsp/collection.yml
+
+  collection:
+    organization: "Google Inc"
+    name: "X.MVSP ITU-T C Template with A.1"
