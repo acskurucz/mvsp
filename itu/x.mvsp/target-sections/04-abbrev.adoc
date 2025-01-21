@@ -6,9 +6,39 @@
 
 // This Recommendation uses the following abbreviations and acronyms:
 
-DS:: Digital Signage
+MVSP:: Minimum Viable Secure Product
 
-GML:: Geography Markup Language
+GDPR:: General Data Protection Regulation
 
-URI:: Uniform Resource Identifier
+HTTP:: Hypertext Transfer Protocol
+
+HTTPS:: Hypertext Transfer Protocol Secure
+
+TLS:: Transport Layer Security
+
+CSP:: Content Security Policy
+
+ORM:: object-relational mapping
+
+UI:: User Interface
+
+DOM:: Document Object Model
+
+CRUD:: Create, Read, Update, and Delete
+
+IP:: Internet Protocol
+
+SQL:: Structured Query Language
+
+LLM:: Large Language Model
+
+HTML:: Hypertext Mark-up Language
+
+XML:: Extensible Markup Language
+
+XXE:: XML External Entities
+
+OS:: Operating System
+
+SLSA:: Supply-chain Levels for Software Artifacts
 

@@ -3,7 +3,7 @@
 [appendix,obligation=normative,type=justification]
 == {blank}
 
-// Base text: indicates where in this document the proposed document text is. The following is the default value reflecting 
+// Base text: indicates where in this document the proposed document text is. The following is the default value reflecting
 // how this template has been set up.
 [type=basetext]
 === {blank}
@@ -15,33 +15,29 @@ Annex B of this Contribution
 [type=scope]
 === {blank}
 
-text
+TODO: ensuring organizations are reaching the MVSP level and as such are not vulnerable to the ...
 
 // *Summary* (provides a brief overview of the purpose and contents of the {{ doctype }}, thus permitting readers to judge its usefulness for their work):
 [type=summary]
 === {blank}
 
-text
+in this recommendation we cover TODO A,B,C (structure, etc)
 
 // *Relations to ITU-T Recommendations or to other standards* (approved or under development):
 [type=relatedstandards]
 === {blank}
 
-. text
-. text
-. text
+N/A
 
 // *Liaisons with other study groups or with other standards bodies:*
 [type=liaisons]
 === {blank}
 
-. text
-. text
-. text
+N/A
 
 // *Supporting members that are committing to contributing actively to the work item:*
 [type=supportingmembers]
 === {blank}
 
-text
+Google Inc., Broadcom, TODO: get support during proposal
 

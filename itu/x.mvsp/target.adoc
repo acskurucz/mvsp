@@ -1,14 +1,14 @@
-= Template for an ITU Recommendation or other document, which is the subject matter of a Revision Contribution
+= Draft new Recommendation ITU-T X.MVSP
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
 :comment: ### Internal reference number; mandatory
-:docnumber: X.12345 (TBD)
+:docnumber: X.MVSP (TODO)
 :comment: ### Series that the recommendation belongs to; mandatory. Use full title, for example:
-:series: X: TODO
+:series: X: Minimum Viable Secure Product (TODO)
 :comment: ### First level subseries; mandatory
 :series1: Recommendations
 :comment: ### Second level subseries; mandatory
-:series2: Metanorma template
+:series2: Minimum Viable Secure Product (TODO)
 :comment: ### Date on which the standard was updated; mandatory
 :published-date: 2050-02-28
 :comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
@@ -16,13 +16,14 @@
 :comment: ### Document type; mandatory. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
 :doctype: recommendation
 :comment: ### Comma delimited keywords; mandatory
-:keywords: authoring, recommendation, template, metanorma
+:keywords: mvsp, minimum viable secure product, mvsp security, security baseline
 :comment: ### Directory name used as prefix for the location of image files; optional
 :imagesdir: images
 :comment: ### Metanorma flavor; mandatory
 :mn-document-class: itu
 :comment: ### Desired output formats; mandatory
-:mn-output-extensions: xml,html,doc,pdf,rxl
+:comment: ### :mn-output-extensions: xml,html,doc,pdf,rxl
+:mn-output-extensions: pdf
 :comment: ### Enable local relaton cache for quick inclusion of prefetched references; optional. For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
 :local-cache-only:
 :comment: ### Encode all images in HTML output as inline data-URIs; optional
@@ -46,5 +47,5 @@ include::target-sections/a1-annex.adoc[]
 
 include::target-sections/a2-appendix.adoc[]
 
-include::target-sections/zz-references.adoc[]
+:comment: ### include::target-sections/zz-references.adoc[]
 

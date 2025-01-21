@@ -1,4 +1,4 @@
-= Template for ITU New Item Contribution
+= Proposed new work item, X.MVSP, Minimum Viable Secure Product
 :comment: ### Bureau that the documents belongs to; mandatory. Permitted types: T (ITU-T), R (ITU-R), D (ITU-D)
 :bureau: T
 :comment: ### The Question that the report belongs under. If there are multiple Questions, they are comma-delimited, and Questions containing commas must be quoted. The Question should be prefixed with its identifier followed by colon.
@@ -10,19 +10,19 @@
 :comment: ### The standard acronym of the Study Group
 :group-acronym: SG 17
 :comment: ### Year that the group's study period started
-:group-year-start: 2024
+:group-year-start: 2025
 :comment: ### Year that the group's study period ended
-:group-year-end: 2026
+:group-year-end: 2028
 :comment: ### Name of the meeting
 :meeting: TODO: Update (Focus Group on Vehicular Multimedia meeting)
 :comment: ### Date of the meeting, entered in YYYY-MM-DD or YYYY-MM-DD/YYYY-MM-DD
-:meeting-date: 2000-01-01/2000-01-02
+:meeting-date: 8-17 April 2025
 :comment: ### Place of the meeting
 :meeting-place: Geneva
 :comment: ### Language of document
 :language: en
 :comment: ### Source
-:source: Source
+:source: Google Inc.
 :comment: ### Number of contribution document. The document identifier will use the docnumber as its numeric component; e.g. SG 17-C3000 needs just `3000` as the docnumber
 :docnumber: 12345 (TBD)
 :comment: ### Date on which the standard was updated; mandatory
@@ -48,7 +48,7 @@
 :comment: ### Country of first contact
 :address: United States
 :comment: ### Phone of first contact
-:phone: 555 5555
+:phone:
 :comment: ### Fax of first contact
 :fax: 555 5556
 :comment: ### Email of first contact
@@ -71,8 +71,8 @@
 :imagesdir: images
 :comment: ### Metanorma flavor; mandatory
 :mn-document-class: itu
-:comment: ### Desired output formats; mandatory
-:mn-output-extensions: pdf ### xml,html,doc,pdf,rxl
+:comment: ### Desired output formats; mandatory; Options: xml,html,doc,pdf,rxl
+:mn-output-extensions: pdf
 :comment: ### Enable local relaton cache for quick inclusion of prefetched references; optional. For further information, visit: https://www.metanorma.com/author/ref/document-attributes/#caches, https://www.metanorma.com/author/topics/building/reference-lookup/#lookup-result-caching
 :local-cache-only:
 :comment: ### Encode all images in HTML output as inline data-URIs; optional
