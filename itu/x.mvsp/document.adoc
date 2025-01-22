@@ -50,23 +50,23 @@
 :comment: ### Phone of first contact
 :phone:
 :comment: ### Fax of first contact
-:fax: 555 5556
+:fax:
 :comment: ### Email of first contact
 :email: acskurucz@google.com
-:comment: ### Details of second contact
-:fullname_2:
-:affiliation_2:
-:address_2:
-:phone_2:
-:fax_2:
-:email_2:
-:comment: ### Details of third contact
-:fullname_3:
-:affiliation_3:
-:address_3:
-:phone_3:
-:fax_3:
-:email_3:
+:comment: ### :comment: ### Details of second contact
+:comment: ### :fullname_2:
+:comment: ### :affiliation_2:
+:comment: ### :address_2:
+:comment: ### :phone_2:
+:comment: ### :fax_2:
+:comment: ### :email_2:
+:comment: ### :comment: ### Details of third contact
+:comment: ### :fullname_3:
+:comment: ### :affiliation_3:
+:comment: ### :address_3:
+:comment: ### :phone_3:
+:comment: ### :fax_3:
+:comment: ### :email_3:
 :comment: ### Directory name used as prefix for the location of image files; optional
 :imagesdir: images
 :comment: ### Metanorma flavor; mandatory

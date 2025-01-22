@@ -1,12 +1,14 @@
 
 [[specific_contents]]
-== Specific contents: could be introduction or something more substantive
 
-=== Introduction
+
+[[specific_contents]]
+
+== Introduction
 
 Minimum Viable Secure Product (MVSP) is a list of essential application security controls that should be implemented in enterprise-ready products and services. The controls are designed to be simple to implement and provide a good foundation for building secure and resilient systems and services. MVSP is based on the experience of contributors in enterprise application security and has been built with contributions from a range of companies.
 
-=== What differentiates MVSP?
+== What differentiates MVSP?
 
 Many other complex standards focus on a wide range of controls that should be implemented across the enterprise. MVSP, on the other hand, focuses specifically on the security of applications, which can vary from service to service. While a company can claim overall ISO compliance at a company level, MVSP would apply to a single application due to its narrow focus.
 
@@ -14,27 +16,27 @@ MVSP is a minimum checklist that serves as a stepping stone, however MVSP does n
 
 In order to provide context on how the MVSP controls align to common security standards, please take a look at [this](https://viewer.oscal.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvendorsec%2Fmvsp%2Fmaster%2Foscal%2Fmvsp%2FMVSP_v3.0-20231109-mapping-catalog.json) comparison in OSCAL format between MVSP and commonly used standards.
 
-==== Focus on Application Security
+=== Focus on Application Security
 MVSP was created to address application security controls. As such, it tries not to cross over into enterprise security aspects unless they are directly connected to the security of an enterprise application or service. This may mean that we stop short of adding a control that you may feel is important, or occasionally add something that is more enterprise-focused than we would like. We try to maintain this balance, but we may not always get it exactly right.
 
-=== Use cases
+== Use cases
 
-==== Procurement
+=== Procurement
 
 A standardized application security baseline for vendor selection simplifies the sourcing team's job and provides a clear set of requirements for enterprise-ready products and services. MVSP is designed to be brief, concise, and easy to understand so that it can be included in RFP documents without causing delays to the sales cycle.
 
-==== Self assessment
+=== Self assessment
 
 Smaller companies that are not yet mature enough to invest in large compliance efforts such as SOC 2 or PCI DSS can use MVSP as a baseline to measure the security posture of their MVP and create a roadmap for continuous improvement. MVPs often lack essential security controls, however to attract enterprise customers, a clear security roadmap must be a priority.
 
-==== Software Development Lifecycle (SDLC)
+=== Software Development Lifecycle (SDLC)
 
 Security teams often have a great number of requirements pertinent to providing digital services. Prioritizing “security as a feature” can be challenging for software teams. MVSP provides a simple set of minimum controls that are both easy for product teams to understand and integrate and easy to verify by the security and compliance team.
 
-==== Contractual Controls
+=== Contractual Controls
 
 To ensure the security posture of third-party suppliers, large companies can incorporate MVSP into their standard contractual controls. By ensuring that third-parties acknowledge and respond to the MVSP controls at the initial RFP stage, agreeing to contractual controls based on MVSP can be further expedited.
 
-=== Proposal
+== Proposal
 
 This contribution proposes to discuss this new work item and taking into account SG-17 feedback proposes to establish this new work item.

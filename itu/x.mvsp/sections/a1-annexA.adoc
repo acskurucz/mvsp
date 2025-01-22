@@ -21,7 +21,7 @@ TODO: ensuring organizations are reaching the MVSP level and as such are not vul
 [type=summary]
 === {blank}
 
-in this recommendation we cover TODO A,B,C (structure, etc)
+In this recommendation, we cover Minimum Viable Secure Product (MVSP), a list of essential application security controls. The control groups include business, application design, implementation, and operational controls. In clause 6 the draft recommendation is included with control descriptions and Annex A provides a reasoning for each contro detailing what the control measures and why it should be included. The recommenadtion also addresses the formal requirements, including definitions, abbreviations, terms used.
 
 // *Relations to ITU-T Recommendations or to other standards* (approved or under development):
 [type=relatedstandards]
