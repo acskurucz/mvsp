@@ -2,7 +2,4 @@
 [abstract]
 == Abstract
 
-// This abstract will automatically be inserted into a table formatted as in the normal contribution template.
-
-[Insert an abstract under 200 words that describes the content of the contribution in a form suitable for inclusion in the meeting report as a summary of the content of the document, including a clear description of any proposals it may contain. See also Rec.A.2, clause I.1.2 for guidance.]
-
+This document proposes a new work item, X.MVSP (Minimum Viable Secure Product) for ITU-T SG 17. MVSP is a list of essential application security controls for enterprise-ready products and services. MVSP creates a minimum baseline that can be used for vendor selection, self-assessment, contractual controls, and more. The key control groups are application security, with controls around business, software design, implementation, and operational control. The contribution includes a justification for the new work item, a draft and reasoning for each control. This initiative seeks to establish a clear, and understandable minimum security baseline for stakeholders.
