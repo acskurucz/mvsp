@@ -12,7 +12,7 @@ Many other complex standards focus on a wide range of controls that should be im
 
 MVSP is a minimum checklist that serves as a stepping stone, however MVSP does not intend to compete with existing standards. Rather, it fills a void in standardized RFPs, contractual language, and many other areas.
 
-In order to provide context on how the MVSP controls align to common security standards, please take a look at this comparison in OSCAL format between MVSP and commonly used standards.
+In order to provide context on how the MVSP controls align to common security standards, please take a look at [this](https://viewer.oscal.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvendorsec%2Fmvsp%2Fmaster%2Foscal%2Fmvsp%2FMVSP_v3.0-20231109-mapping-catalog.json) comparison in OSCAL format between MVSP and commonly used standards.
 
 ==== Focus on Application Security
 MVSP was created to address application security controls. As such, it tries not to cross over into enterprise security aspects unless they are directly connected to the security of an enterprise application or service. This may mean that we stop short of adding a control that you may feel is important, or occasionally add something that is more enterprise-focused than we would like. We try to maintain this balance, but we may not always get it exactly right.
