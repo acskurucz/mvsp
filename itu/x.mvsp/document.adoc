@@ -14,7 +14,7 @@
 :comment: ### Year that the group's study period ended
 :group-year-end: 2028
 :comment: ### Name of the meeting
-:meeting: TODO: Update (Focus Group on Vehicular Multimedia meeting)
+:meeting: TODO
 :comment: ### Date of the meeting, entered in YYYY-MM-DD or YYYY-MM-DD/YYYY-MM-DD
 :meeting-date: 8-17 April 2025
 :comment: ### Place of the meeting
@@ -24,7 +24,7 @@
 :comment: ### Source
 :source: Google Inc.
 :comment: ### Number of contribution document. The document identifier will use the docnumber as its numeric component; e.g. SG 17-C3000 needs just `3000` as the docnumber
-:docnumber: 12345 (TBD)
+:docnumber: 12345 (TODO)
 :comment: ### Date on which the standard was updated; mandatory
 :published-date: 2050-02-28
 :comment: ### Document status/stage; mandatory. Synonym: docstage. Visit: https://www.metanorma.com/author/itu/authoring/ for permitted types
@@ -85,5 +85,5 @@ include::sections/01-content.adoc[]
 
 include::sections/a1-annexA.adoc[]
 
-include::sections/a1-appendix.adoc[]
+:comment: ### include::sections/a1-appendix.adoc[]
 

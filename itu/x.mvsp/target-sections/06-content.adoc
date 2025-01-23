@@ -11,6 +11,7 @@ The controls are designed to be simple to implement and provide a good foundatio
 
 We recommend that all companies building enterprise software and services, or otherwise handling sensitive information, implement the MVSP controls and, where possible, go well beyond them in their application security programs.
 
+.Minimum Viable Secure Product Controls
 [cols="2,6a",stripes=none]
 |===
 2+<h| 1 Business controls
@@ -22,7 +23,7 @@ h| Description
 
 ====
 *Example:* +
-Publish a policy generated with https://disclose.io[disclose.io] and refer to it using https://securitytxt.org[security.txt] [.small]#(RFC 9116)#.
+Publish a policy generated with https://disclose.io[disclose.io] and refer to it using https://securitytxt.org[security.txt] <<rfc9116>>.
 ====
 
 * Develop and document procedures for triaging and remediating reported vulnerabilities

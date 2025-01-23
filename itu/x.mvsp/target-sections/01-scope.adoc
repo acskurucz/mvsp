@@ -2,10 +2,4 @@
 == Scope
 //<Mandatory>
 
-This Recommendation provides a set of common, coherent and portable signal processing tools to facilitate the development of speech and audio coding algorithms, in particular within the standardization environment, where the following situations often happen:
-
-- experimental results generated with different software tools may not be directly compared;
-- software tools used by different organizations may not perfectly conform to related ITU T Recommendations, which may delay ITU-T standardization processes;
-- ITU-T Recommendations may leave scope for different implementations;
-- new speech and audio coding standards are increasing in complexity, leading to non bitexact specifications; furthermore, appropriate testing procedures to assure interoperability of different implementations are needed.
-
+Minimum Viable Secure Product (MVSP) defines a baseline security level applicable to any organization developing or procuring enterprise software. The baseline's scope includes business controls, secure application design, implementation, and operation. As the controls are aimed to reach the minimum viable security level, it is not a replacement for comprehensive security frameworks. MVSP's simpicity however enables its efficient usage for vendor selection, self-assessment, SDLC, and contractual controls withouth heavy resource investments.

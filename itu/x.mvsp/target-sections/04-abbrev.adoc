@@ -42,3 +42,5 @@ OS:: Operating System
 
 SLSA:: Supply-chain Levels for Software Artifacts
 
+PCI DSS:: Payment Card Industry Data Security Standard
+

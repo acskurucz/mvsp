@@ -15,7 +15,7 @@ Annex B of this Contribution
 [type=scope]
 === {blank}
 
-TODO: ensuring organizations are reaching the MVSP level and as such are not vulnerable to the ...
+Minimum Viable Secure Product (MVSP) defines a baseline security level applicable to any organization developing or procuring enterprise software. The baseline's scope includes business controls, secure application design, implementation, and operation. As the controls are aimed to reach the minimum viable security level, it is not a replacement for comprehensive security frameworks. MVSP's simpicity however enables its efficient usage for vendor selection, self-assessment, SDLC, and contractual controls withouth heavy resource investments.
 
 // *Summary* (provides a brief overview of the purpose and contents of the {{ doctype }}, thus permitting readers to judge its usefulness for their work):
 [type=summary]

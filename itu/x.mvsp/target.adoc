@@ -45,7 +45,7 @@ include::target-sections/06-content.adoc[]
 
 include::target-sections/a1-annex.adoc[]
 
-include::target-sections/a2-appendix.adoc[]
+:comment: ### include::target-sections/a2-appendix.adoc[]
 
 :comment: ### include::target-sections/zz-references.adoc[]
 

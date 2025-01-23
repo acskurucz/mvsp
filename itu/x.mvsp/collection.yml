@@ -7,7 +7,7 @@ directives:
 bibdata:
   title:
     - language: en
-      content: "Sample ITU contribution"
+      content: "MVSP - ITU contribution"
   type: collection
   docid:
     type: ITU
@@ -21,9 +21,9 @@ format:
   - presentation
   - html
   - pdf
-  - doc
-  - rxl
-output_folder: contribution-new-item
+#  - doc
+#  - rxl
+output_folder: mvsp-contribution-new-item
 manifest:
   level: document
   title: Document

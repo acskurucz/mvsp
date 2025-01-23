@@ -7,7 +7,7 @@ TODO
 
 === Terms defined in this Recommendation
 
-==== Minimum Viable Secure Product
+==== minimum viable secure product
 
 A list of essential application security controls that should be implemented in
 enterprise-ready products and services.

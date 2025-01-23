@@ -5,6 +5,7 @@
 
 This document is designed to provide additional context on the controls listed in the Minimum Viable Secure Product.
 
+.Minimum Viable Secure Product Control Descriptions
 [cols="2,6a",stripes=none]
 |===
 2+<h| 1 Business controls
@@ -112,7 +113,7 @@ To ensure that cookies are also only transmitted via encrypted and integrity pro
 
 **Why this control is important:** Content Security Policy is a mechanism designed to make applications more secure against common web vulnerabilities, particularly cross-site scripting while iframing websites could lead to unexpected vulnerabilities. By adopting strict policies, which prevents the loading of untrusted scripts or plugins and limiting being iframed an application can add important defense-in-depth layers against markup injection attacks.
 
-Security headers can also assist in providing isolation and protection against common attacks beyond those discussed above. You can find more information at [securityheaders.com](https://securityheaders.com).
+Security headers can also assist in providing isolation and protection against common attacks beyond those discussed above. You can find more information at https://securityheaders.com[securityheaders.com].
 
 | 2.4 Password policy
 | **What this control measures:** Appropriate controls are in place to protect users who opt to use password-based authentication.
@@ -210,7 +211,7 @@ Vulnerabilities that are actively being exploited should be suitably prioritized
 
 **Why this control is important:** Hardening and automation of build processes is an essential first step to prevent tampering and provide the ability to auditability. Automation of build processes furthermore enables teams to react quickly to threats and incidents by ensuring a new version can be released with a vulnerability or bug fix or by upgrading a compromised dependency. Provenance is metadata about how an artifact was built, including the build process, top-level source, and dependencies. Knowing the provenance allows software consumers to make risk-based security decisions.
 
-Provenance at SLSA Build level 1 does not protect against tampering, but it offers a basic level of code source identification and can aid in vulnerability management. For applications and services that process particularly sensitive data, higher [SLSA levels](https://slsa.dev/spec/v1.0/levels#build-l1) can provide additional guarantees.
+Provenance at SLSA Build level 1 does not protect against tampering, but it offers a basic level of code source identification and can aid in vulnerability management. For applications and services that process particularly sensitive data, higher https://slsa.dev/spec/v1.0/levels#build-l1[SLSA levels] can provide additional guarantees.
 
 Additional checks should be made to ensure that sensitive application credentials or tokens are not stored alongside application code (e.g. in a GIT repository).
 
